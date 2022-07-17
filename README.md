@@ -1,2 +1,3 @@
-## Synopsis
-This Repository contains simple C programs that I have completed during my CSE115 course at NSU.
+# Basic exercises on C Programming Language
+
+This Repository contains topic-wise exercises on C programming language.
